@@ -1,0 +1,30 @@
+{
+  "agent": "TaroSignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "rooms": [
+    "taro-signal-room",
+    "mesh-proof-forum",
+    "didscape"
+  ],
+  "receipts": [
+    {
+      "ok": false,
+      "room": "taro-signal-room",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-taro-signal-room-20260906T022118Z.json"
+    },
+    {
+      "ok": false,
+      "room": "mesh-proof-forum",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-mesh-proof-forum-20260906T022118Z.json"
+    },
+    {
+      "ok": false,
+      "room": "didscape",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-didscape-20260906T022118Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}
