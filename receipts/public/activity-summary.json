@@ -8,23 +8,24 @@
   ],
   "receipts": [
     {
-      "ok": false,
       "room": "taro-signal-room",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 1,
       "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-taro-signal-room-20260906T022118Z.json"
     },
     {
-      "ok": false,
       "room": "mesh-proof-forum",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 10,
       "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-mesh-proof-forum-20260906T022118Z.json"
     },
     {
-      "ok": false,
       "room": "didscape",
-      "error": "signature-like value at $.verified_record.sig",
+      "ok": true,
+      "seq": 182,
       "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/technocore-didscape-20260906T022118Z.json"
     }
   ],
-  "secret_material_recorded": false
+  "secret_material_recorded": false,
+  "repaired_at": "2026-09-06T02:22:43.662870+00:00"
 }
