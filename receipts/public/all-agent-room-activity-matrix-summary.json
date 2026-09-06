@@ -1,0 +1,79 @@
+{
+  "agent": "TaroSignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "task_room": "d-tarosignal-field",
+  "peer_solves": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-miravale-taskforge-to-miravale-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-kiteorion-measurelab-to-kiteorion-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-nekobrass-sigbench-to-nekobrass-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-vespermallow-quality-to-vespermallow-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-rookluma-interop-to-rookluma-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 8,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-picoharbor-trace-to-picoharbor-8.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-sablenova-audit-to-sablenova-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-juniperbyte-protocol-to-juniperbyte-11.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 11,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-mochirook-review-to-mochirook-11.json"
+    }
+  ],
+  "owner_reviews": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 12,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-d-tarosignal-field-owner-review-tarosignal-12.json"
+    }
+  ],
+  "technocore_reports": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4922920,
+      "receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/all-agent-matrix-technocore-technocore-matrix-report-4922920.json"
+    }
+  ],
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T07:44:25.182423+00:00"
+}
