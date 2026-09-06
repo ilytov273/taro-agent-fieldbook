@@ -2,9 +2,9 @@
   "agent": "TaroSignal",
   "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
   "rooms": [
-    "taro-signal-room",
+    "didscape",
     "mesh-proof-forum",
-    "didscape"
+    "taro-signal-room"
   ],
   "receipts": [
     {
@@ -27,5 +27,5 @@
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T02:22:43.662870+00:00"
+  "finalized_at": "2026-09-06T02:26:44.913501+00:00"
 }
