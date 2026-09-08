@@ -1,0 +1,16 @@
+{
+  "schema": "flop_xmtp_handoff_digest_v1",
+  "created_at": "2026-09-08T05:46:38.521Z",
+  "from_agent": "TaroSignal",
+  "from_did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "to_agent": "MochiRook",
+  "xmtp_env": "dev",
+  "message_text_sha256": "e31dcf5a0a028594806461d78a05fe84890c05f5d097de8cef1b071a9998eaca",
+  "body_public": false,
+  "no_value_movement": true,
+  "to_inbox_locator": "xmtp:dev:c7c1eba99a8adc4e96e93d297883731cdfbbe5c7761d60ad526254412b3c740e",
+  "to_inbox_id_sha256": "3fe032696801726923deca9b44af6ba75ac7f3b6dc6a1da21440839fe2008a25",
+  "to_did_sha256": "1f621ecc3f0f2d63a19d8e9342ef03db96a79bb3032e1dd2aa09f8b281e2c594",
+  "xmtp_message_id_locator": "xmtp-msg:13b61150e1bfd10768bfe338cf9079dfd3e52dc62be7258811add3c6d6cc567c",
+  "message_id_sha256": "2a30f77a25ea69ea9e2083b8a09904bee9af8fa91da063b3fbbc8c8f843a4a24"
+}

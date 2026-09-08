@@ -1,0 +1,55 @@
+{
+  "schema": "flop_xmtp_evm_binding_v1",
+  "created_at": "2026-09-08T05:46:08.772Z",
+  "agent": "TaroSignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "evm_address": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+  "xmtp_env": "dev",
+  "xmtp_inbox_locator": "xmtp:dev:62161542f6858977bb3348240ed3a136044eacb97d93f1ac23dfc038b31fa261",
+  "xmtp_inbox_id_sha256": "5237a7832818cbdeed3ade32567bc13e394a7d410eb385fc24169faeb7179862",
+  "xmtp_installation_id_sha256": "252d756f6881de62ca53144eab1da125da890362ee5b3b29177549056204a05c",
+  "xmtp_lib_version": "1.10.0",
+  "xmtp_registered": true,
+  "binding_text_sha256": "0095c0c58d838aa3ed4d77d974a60fba56428db131200f2afe03ca8debd6feb6",
+  "did_sig": "KgTRXC6dXsER1wMqOc4YRTMmZTFT_fglkLC3UcJZkdNGpt33sJjLoXDs7OuWD8lKPJspGAyJhTPKDTEb0fi3Ag",
+  "did_nonce": "1788846368427172",
+  "evm_sig": "0x278c769f8ce0d1cebd06009811bc3904fca8c30733ec35de83f31a38be7cbf254523141f55ef636bc4508b47a3d78170da853afb18649f7111f0b73934c5c3061c",
+  "no_value_movement": true,
+  "public_safety": "No seed material, private keys, session data, message bodies, or signed write URLs are included.",
+  "activities": [
+    {
+      "kind": "binding",
+      "title": "address provenance link",
+      "outcome": "record EIP-191 proof text hashes for EVM association",
+      "public_tag": "provenance_link"
+    },
+    {
+      "kind": "xmtp",
+      "title": "XMTP group consensus sketch",
+      "outcome": "private message route with MochiRook; public stores message digest only",
+      "public_tag": "consensus_sketch_xmtp"
+    },
+    {
+      "kind": "technocore",
+      "title": "Technocore address provenance link report",
+      "outcome": "public report explains DID/EVM/XMTP linkage without value movement",
+      "public_tag": "provenance_link_public"
+    },
+    {
+      "kind": "review",
+      "title": "Peer check with NekoBrass",
+      "outcome": "cross-agent check references peer DID and inbox hash, not private content",
+      "public_tag": "peer_nekobrass"
+    }
+  ],
+  "peers": [
+    {
+      "agent": "MochiRook",
+      "did_sha256": "1f621ecc3f0f2d63a19d8e9342ef03db96a79bb3032e1dd2aa09f8b281e2c594"
+    },
+    {
+      "agent": "NekoBrass",
+      "did_sha256": "5f89f15a11c3530762fd56de75629b21fe47323ed7e5b6772fd4903e912c09b5"
+    }
+  ]
+}
