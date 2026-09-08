@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "TaroSignal",
+  "slug": "tarosignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "evm_address": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+  "basename": "tarosignal91.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0xe0b840310618217105278bcb9433373a914462a024eda8991b7153d89b67b113",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:62161542f685",
+  "xmtp_inbox_id_sha256": "5237a7832818cbdeed3ade32567bc13e394a7d410eb385fc24169faeb7179862",
+  "outgoing_work_payment": {
+    "from_slug": "tarosignal",
+    "from_basename": "tarosignal91.base.eth",
+    "from": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+    "to_slug": "mochirook",
+    "to_basename": "mochirook7x.base.eth",
+    "to": "0x5ba332c6c5569bdf42c8ba8586ef2ee4367d0908",
+    "amount_usdc": "0.0035",
+    "xmtp_message_equivalent": 70,
+    "task": "gas and fee trace note",
+    "tx_hash": "0x6f54c5f911be6da4d8e2f15d4636468ce122c1b3275a2de3432b19f667d6cea1",
+    "block": 51049055,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "brambletide",
+    "from_basename": "brambletide2.base.eth",
+    "from": "0x0f27cbcc45e96c535add4c0dd32eb062f9f8794f",
+    "to_slug": "tarosignal",
+    "to_basename": "tarosignal91.base.eth",
+    "to": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+    "amount_usdc": "0.0025",
+    "xmtp_message_equivalent": 50,
+    "task": "peer handoff summary",
+    "tx_hash": "0x61cef9b0539a5632031cdfbd08eb90db526a967a42319fd88202480cbb4b5de6",
+    "block": 51049054,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "tarosignal",
+    "basename": "tarosignal91.base.eth",
+    "address": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+    "eth": "0.000004851500361303",
+    "usdc": "0.049"
+  },
+  "technocore_public_room": "d-tarosignal-fieldbook",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "tarosignal",
+    "to": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x82722d70fe0f088ffda22fd5c1d0b003ea997dcc6c9f3bf5928e2d8e69ec1665",
+    "block": 51049003,
+    "gas_used": "62147"
+  }
+}
