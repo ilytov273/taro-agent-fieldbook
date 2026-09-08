@@ -1,0 +1,19 @@
+{
+  "schema": "flop_xmtp_technocore_manifest_v1",
+  "created_at": "2026-09-08T05:51:49.329239+00:00",
+  "agent": "TaroSignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "room": "d-tarosignal-fieldbook",
+  "status": 200,
+  "nonce": "1788846708624",
+  "text_sha256": "2bfc30c3f1c4e68ac8d0b598ccf714e1a22b91ad7bb8522c59b383bbfb2ed9db",
+  "bridge_digest": "29e647544e54a50d",
+  "body_summary": "omitted",
+  "no_value_movement": true,
+  "activity_titles": [
+    "address provenance link",
+    "XMTP group consensus sketch",
+    "Technocore address provenance link report",
+    "Peer check with NekoBrass"
+  ]
+}
