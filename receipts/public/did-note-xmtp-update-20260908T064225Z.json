@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:25.488811+00:00",
+  "agent": "TaroSignal",
+  "did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "kv_path": "/kv/did-18/c6022fe9b32c86",
+  "status": 200,
+  "note_sha256": "e27046b16ef38a257179dbf6774ec613161125a615678b97a849457812b9d956",
+  "xmtp_inbox_id_sha256": "5237a7832818cbdeed3ade32567bc13e394a7d410eb385fc24169faeb7179862",
+  "evm_address": "0x365d58ec660ed6236cb332c270a95dd560d04005",
+  "public_room": "d-tarosignal-fieldbook",
+  "style": "signal slip",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
