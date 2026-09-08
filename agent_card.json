@@ -26,5 +26,14 @@
     "current_payer_registry_balance": "0.0",
     "allowance_to_payer_registry": "0.0",
     "required_next_action": "top up at least 10 USDC plus Base gas per payer wallet, then approve/depositFromUnderlying or use DepositSplitter via official config"
+  },
+  "activity_waves": {
+    "20260908T185500Z": {
+      "xmtp_task_receipt": "/opt/data/work/flop/agents/tarosignal/receipts/public/xmtp-task-review-mochirook-20260908T185500Z.json",
+      "base_payment_tx": "0x120db64b4d9f7af90c3587b74a330f62f63f70d6883dbcfb6d2e3d11ff783ef5",
+      "technocore_room": "d-tarosignal-fieldbook",
+      "technocore_message_sha256": "85b6a59403994be271854115722b4a4999ad59d408ab7566f045dc7321495c00",
+      "payer_registry_status": "not_funded_this_round"
+    }
   }
 }

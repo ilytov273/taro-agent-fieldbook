@@ -1,0 +1,14 @@
+{
+  "schema": "flop_technocore_fallback_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:02:06.542432+00:00",
+  "agent": "TaroSignal",
+  "slug": "tarosignal",
+  "primary_room_status": 400,
+  "fallback_room": "technocore",
+  "fallback_status": 200,
+  "fallback_ok": true,
+  "message_sha256": "5ec94c508246ddfcd55f85ec334e13b46b20fc5af93a1718868e8be55d4f4083",
+  "base_payment_tx": "0x120db64b4d9f7af90c3587b74a330f62f63f70d6883dbcfb6d2e3d11ff783ef5",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}

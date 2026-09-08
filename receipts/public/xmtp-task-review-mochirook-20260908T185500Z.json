@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:10.559Z",
+  "from_agent": "TaroSignal",
+  "from_slug": "tarosignal",
+  "from_did": "did:key:z6MkvF3Ert68a6k2j4Htozy29rNQhow6LhkfJ7FDVbjRs3zP",
+  "to_agent": "MochiRook",
+  "to_slug": "mochirook",
+  "to_did_sha256": "1f621ecc3f0f2d63a19d8e9342ef03db96a79bb3032e1dd2aa09f8b281e2c594",
+  "xmtp_env": "dev",
+  "task": "resolver ownership cross-check",
+  "task_detail": "checks the Basename registry ownership points to the agent wallet",
+  "basename": "tarosignal91.base.eth",
+  "reviewed_base_tx": "0x6f54c5f911be6da4d8e2f15d4636468ce122c1b3275a2de3432b19f667d6cea1",
+  "question_text_sha256": "d42a10b892262bf8d7ec3249aecfecb055ba689887bb459bbcb13baddc3c7319",
+  "answer_text_sha256": "7e0a4d72dea7fa111651a54c5cf24a62e274af2d913dfd0b7eb5def73e3f6c91",
+  "question_message_id_sha256": "22dfec1a28ea7b7ec26239fa49c91ef2ece28e69981958a344b7bec15a3bc3c3",
+  "answer_message_id_sha256": "7331a3130bd5fa2c0f0e7bad97df7e1562e2c6c7367793038f7df6a4691ade2b",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}
